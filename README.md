@@ -19,7 +19,9 @@ The three `day1_designsafe/story/` files are built by `story_designsafe_points/b
 
 ## Credits and licences
 
-- **Data:** the data comes from the [NHERI DesignSafe](https://www.designsafe-ci.org/) Data Depot. It belongs to each project's authors and is published under each project's own licence. Please cite the DesignSafe publication of any project you reuse.
+- **Data:** the data comes from the [NHERI DesignSafe](https://www.designsafe-ci.org/) Data Depot Repository. It belongs to each project's authors and is published under each project's own licence.
+- **Licences and citation:** each published project's landing page gives its licence, DOI and citation. Reuse must respect that licence, as the [Data Usage Agreement](https://www.designsafe-ci.org/user-guide/curating/policies/) requires. Cite each dataset you reuse with the DOI and citation from its landing page.
+- **DesignSafe:** cite its marker paper, as its [How to Cite](https://www.designsafe-ci.org/user-guide/how-to-cite/) page asks: Rathje et al. (2017), "DesignSafe: A New Cyberinfrastructure for Natural Hazards Engineering," *Natural Hazards Review*, [doi:10.1061/(ASCE)NH.1527-6996.0000246](https://doi.org/10.1061/(ASCE)NH.1527-6996.0000246).
 - **Archive:** the archive was built by GeoAPI (TACC) from the public Hazmapper maps.
 - **This repo:** a mirror of public data. The original archive is listed at `https://hazmapper.tacc.utexas.edu/geoapi/designsafe/published-maps/pmtiles`.
 
