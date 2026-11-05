@@ -1,6 +1,6 @@
 # 30day-map-data-2026
 
-Static data for the "DesignSafe on the map" story map (#30DayMapChallenge 2026, Day 1 · Points), served with GitHub Pages:
+Static data for the "DesignSafe’s published projects, mapped" story map (#30DayMapChallenge 2026, Day 1 · Points), served with GitHub Pages:
 
 https://nathanfranklin.github.io/30day-map-data-2026/
 
